@@ -1,0 +1,2 @@
+#title=1012
+#path=/images/1012.png

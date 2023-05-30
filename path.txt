@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/shimane_riddle2/
+#prj=shimane
