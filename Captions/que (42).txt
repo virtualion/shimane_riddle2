@@ -1,0 +1,2 @@
+#title=que (42)
+#path=/images/que (42).png

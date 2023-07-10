@@ -1,0 +1,2 @@
+#title=que (10)
+#path=/images/que (10).png

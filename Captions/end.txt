@@ -1,0 +1,2 @@
+#title=end
+#path=/images/end.png
