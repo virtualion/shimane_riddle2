@@ -1,0 +1,39 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+3	./Images/titlelogo.png	-25.36668,28.656,61.81271	1,0,0	0,1,0	0,0,1	-17.5581	-3.546001	0.2	2	none(caption)	12:03	91
+4	./Images/riddle/title.png	-25.36668,28.656,61.81271	1,0,0	0,1,0	0,0,1	5.109308	-10.44449	0.2	2	none(caption)	12:03	92
+5	./Images/riddle/title2.png	-25.36668,28.656,61.81271	1,0,0	0,1,0	0,0,1	22.48305	-3.357001	0.2	1	none(caption)	12:03	93
+6	./Images/riddle/imag/tit (46).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-132.121	-10.5	0.2	1	none(caption)	-1:-1	59
+7	./Images/riddle/imag/tit (47).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-115.3677	-10.5	0.2	1	none(caption)	-1:-1	60
+8	./Images/riddle/imag/tit (48).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-98.69214	-10.5	0.2	1	none(caption)	-1:-1	61
+9	./Images/riddle/imag/tit (49).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-81.91257	-10.5	0.2	1	none(caption)	-1:-1	62
+10	./Images/riddle/imag/tit (50).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-65.40714	-10.5	0.2	1	none(caption)	-1:-1	63
+11	./Images/riddle/imag/tit (51).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-47.78149	-10.5	0.2	1	none(caption)	-1:-1	64
+12	./Images/riddle/imag/tit (52).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-30.32132	-10.5	0.2	1	none(caption)	-1:-1	65
+13	./Images/riddle/imag/tit (53).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	-13.54182	-10.5	0.2	1	none(caption)	-1:-1	66
+14	./Images/riddle/imag/tit (54).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	3.284729	-10.5	0.2	1	none(caption)	-1:-1	67
+15	./Images/riddle/imag/tit (55).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	20.53871	-10.5	0.2	1	none(caption)	-1:-1	68
+16	./Images/riddle/imag/tit (56).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	37.21797	-10.5	0.2	1	none(caption)	-1:-1	69
+17	./Images/riddle/imag/tit (57).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	55.91837	-10.5	0.2	1	none(caption)	-1:-1	70
+18	./Images/riddle/imag/tit (58).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	74.716	-10.5	0.2	1	none(caption)	-1:-1	71
+19	./Images/riddle/imag/tit (59).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	92.94632	-10.5	0.2	1	none(caption)	-1:-1	72
+20	./Images/riddle/imag/tit (60).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	110.2768	-10.5	0.2	1	none(caption)	-1:-1	73
+21	./Images/riddle/imag/tit (61).jpg	126.75,37.5,160	0,0,-1	0,1,0	1,0,0	127.9417	-10.5	0.2	1	none(caption)	-1:-1	74
+22	./Images/riddle/imag/tit (62).jpg	72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-33.97295	-10.5	0.2	1	none(caption)	-1:-1	75
+23	./Images/riddle/imag/tit (63).jpg	72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-13.72569	-10.5	0.2	1	none(caption)	-1:-1	76
+24	./Images/riddle/imag/tit (64).jpg	72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	6.201849	-10.5	0.2	1	none(caption)	-1:-1	77
+25	./Images/riddle/imag/tit (65).jpg	72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	27.6008	-10.5	0.2	1	none(caption)	-1:-1	78
+26	./Images/riddle/imag/tit (66).jpg	-72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-35.72674	-10.5	0.2	1	none(caption)	-1:-1	79
+27	./Images/riddle/imag/tit (67).jpg	-72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-13.25935	-10.5	0.2	1	none(caption)	-1:-1	80
+28	./Images/riddle/imag/tit (68).jpg	-72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	10.02552	-10.5	0.2	1	none(caption)	-1:-1	81
+30	./Images/riddle/imag/tit (69).jpg	-72.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	32.60091	-10.5	0.2	1	none(caption)	-1:-1	82
+31	./Images/riddle/imag/tit (70).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	-127.8637	-10.5	0.2	1	none(caption)	-1:-1	83
+32	./Images/riddle/imag/tit (71).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	-110.3659	-10.5	0.2	1	none(caption)	-1:-1	84
+33	./Images/riddle/imag/tit (72).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	-92.63103	-10.5	0.2	1	none(caption)	-1:-1	85
+34	./Images/riddle/imag/tit (73).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	-74.4586	-10.5	0.2	1	none(caption)	-1:-1	86
+35	./Images/riddle/imag/tit (74).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	-54.93069	-10.5	0.2	1	none(caption)	-1:-1	87
+36	./Images/riddle/imag/tit (75).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	-35.41158	-10.5	0.2	1	none(caption)	-1:-1	88
+37	./Images/riddle/imag/tit (76).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	-15.76678	-10.5	0.2	1	none(caption)	-1:-1	89
+40	./Images/riddle/imag/tit (77).jpg	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	6.679298	-10.5	0.2	1	none(caption)	-1:-1	90
+41	./Images/ichiran1.jpg	0,37.5,316	1,0,0	0,1,0	0,0,1	-53.60589	3.233998	0.2	10	none(caption)	-1:-1	34
+42	./Images/ichiran2.jpg	0,37.5,316	1,0,0	0,1,0	0,0,1	54.16472	3.5175	0.2	10	none(caption)	-1:-1	35
+45	./Images/end.png	-126.75,37.5,160	0,0,1	0,1,0	-1,0,0	95.73433	-10.5	0.2	4	Wooden_thin2	-1:-1	97
